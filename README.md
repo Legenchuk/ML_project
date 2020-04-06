@@ -7,4 +7,4 @@ We obtained inappropriate results trying to predict sector's growth using change
 
 In NLP part we obtained almost 100% accuracy on validation. However, this model requires to be tested on larg enough testing set.
 
-In addition, we have implemented NLP procedure in Matlab. There we obtained 0.99 accuracy on the same task. The code and data are stored in Matlab folder. There is also "Matlab source code" text file with code in case of absence opportunity to run matlab script.
+COVID index was calculated using NLP procedure in Matlab. There we obtained 0.99 accuracy on the same task. The code and data are stored in Matlab folder. There is also "Matlab source code" text file with code in case of absence opportunity to run matlab script.
