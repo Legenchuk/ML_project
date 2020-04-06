@@ -7,4 +7,4 @@ We obtained inappropriate results trying to predict sector's growth using change
 
 In NLP part we obtained almost 100% accuracy on validation. However, this model requires to be tested on larg enough testing set.
 
-In addition, we have implemented NLP procedure in Matlab. There we obtained 0.99 accuracy on the same task. 
+In addition, we have implemented NLP procedure in Matlab. There we obtained 0.99 accuracy on the same task. The code is provided in "Matlab source code" file. 
